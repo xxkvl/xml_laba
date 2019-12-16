@@ -2,9 +2,9 @@
 <root>
   <movie>
     <widget>
-      <id>5</id>
-      <title>sosi</title>
-      <director>hui</director>
+      <id>9</id>
+      <title>Film</title>
+      <director>Director</director>
     </widget>
   </movie>
 </root>
